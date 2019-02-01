@@ -1,16 +1,9 @@
 run using:
 python make_timetable.py input_file_name.json
 
-Changes made in the new file:
-added an '=' sign in line 154
-	while cursor+interval <= end_time:
-instead of 
-	while cursor+interval < end_time:
-
-
 OUTPUT ON THE TEST INPUT FILE GIVEN:
 
-CS228_Timetable_Assignment_160030005> python .\make_timetable.py .\trial_input.json
+>>> python .\make_timetable.py .\trial_input.json
 --------------------------------------------------------------------------------
 pre-processing, reading and parsing input file
 --------------------------------------------------------------------------------
