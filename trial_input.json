@@ -1,0 +1,74 @@
+{
+    "Room Types": ["small", "big", "chemistry", "physics", "computer", "ground"],
+    "Institute time": [
+        [8.30, 12.30],
+        [14.00, 17.00]
+    ],
+    "Classrooms": [
+        ["T1", "small"],
+        ["LH1", "big"],
+        ["physics lab", "physics"],
+        ["computer lab", "computer"],
+        ["Chemistry lab", "chemistry"],
+        ["T2", "small"],
+        ["T3", "small"],
+        ["LH2", "big"],
+        ["ground", "ground"]
+    ],
+    "Courses": [
+        ["CS101", "computer", [2, 2, 2],
+            ["Somenath Biswas"], 1
+        ],
+        ["NO101", "ground", [2, 2],
+            ["Santosh Upadhyay"], 1
+        ],
+        ["ENG101", "big", [1, 1],
+            ["Nida Sajid"], 1
+        ],
+        ["CS207", "big", [1, 1, 1],
+            ["Amaldev Manuel"], 2
+        ],
+        ["CS215", "big", [1.5, 1.5],
+            ["Sujit Sahoo"], 2
+        ],
+        ["CS251", "computer", [2],
+            ["Amaldev Manuel", "Sreejith A.V."], 2
+        ],
+        ["CS305", "small", [1, 1, 1],
+            ["Sharad Sinha"], 3
+        ],
+        ["HS101", "small", [1, 1],
+            ["Sunil Paul"], 2
+        ],
+        ["EE101", "big", [1.5, 1.5],
+            ["T. S. Rathore", "Ramnath Kini"], 2
+        ],
+        ["CS341", "computer", [2],
+            ["Sharad Sinha"], 3
+        ],
+        ["CS344", "small", [1, 1, 1],
+            ["Clint P. George"], 3
+        ],
+        ["CS386", "computer", [2],
+            ["Clint P. George"], 3
+        ],
+        ["CH105", "small", [1, 1, 1],
+            ["E. Siva Subramaniam I."], 1
+        ],
+        ["CH107", "small", [1, 1, 1],
+            ["E. Siva Subramaniam I.", "Rishikesh Narayan"], 1
+        ],
+        ["CH117", "chemistry", [2, 2],
+            ["E. Siva Subramaniam I."], 1
+        ],
+        ["CS228", "small", [1, 1, 1],
+            ["Sreejith A.V."], 3
+        ],
+        ["PH107", "big", [1, 1, 1],
+            ["Basanta Nandi"], 1
+        ],
+        ["HS301", "big", [1, 1],
+            ["Sabiha Hashami"], 3
+        ]
+    ]
+}
